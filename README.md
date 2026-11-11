@@ -6,6 +6,14 @@ ngay) và nộp bài vào máy giáo viên qua mạng LAN. Khi dạy không cầ
 
 Kho này **chỉ chứa bản đóng gói** để tải về và để phần mềm tự cập nhật.
 
+## Video giới thiệu
+
+Bấm vào ảnh để xem trên YouTube:
+
+<a href="https://www.youtube.com/watch?v=Et6L2yWU_pw" title="Xem video giới thiệu trên YouTube">
+  <img src="https://img.youtube.com/vi/Et6L2yWU_pw/maxresdefault.jpg" alt="Video giới thiệu phần mềm HTML CSS EDITOR" width="640">
+</a>
+
 ## Yêu cầu
 
 - Máy giáo viên: Windows 10/11, Node.js bản LTS.
