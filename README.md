@@ -39,6 +39,11 @@ Bấm vào ảnh để xem trên YouTube:
 
 Hướng dẫn đầy đủ (sử dụng, xử lý sự cố) trong file `README.md` bên trong gói.
 
+## Hướng dẫn sử dụng
+
+Từng bước cho giáo viên (cài đặt, tạo bài tập, chấm bài) và học sinh (soạn, nộp bài):
+[HUONG_DAN_SU_DUNG.md](HUONG_DAN_SU_DUNG.md).
+
 ## Cập nhật
 
 Đã cài rồi thì không cần tải lại: khi máy giáo viên có Internet, trang quản trị tự báo có phiên bản
