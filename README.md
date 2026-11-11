@@ -29,7 +29,7 @@ Bấm vào ảnh để xem trên YouTube:
 3. Giải nén vào thư mục `D:\PHANMEM\HTMLEDITOR` (sao cho file `KHOI_DONG.bat` nằm ngay trong thư mục đó).
 4. Nếu máy chưa có Node.js: tải bản **LTS** (file `.msi` cho Windows 64-bit) ở https://nodejs.org,
    chạy, bấm Next đến hết. Kiểm tra: mở PowerShell, gõ `node -v` thấy số phiên bản là được.
-5. Đặt IP tĩnh cho máy giáo viên (hỏi người phụ trách phòng máy).
+5. Đặt IP tĩnh cho máy giáo viên (hỏi người phụ trách phòng máy). - KHÔNG CẦN ĐẶT VẪN ĐƯỢC
 6. Chuột phải `MO_TUONG_LUA.bat` → **Run as administrator** (chỉ cần một lần) để máy học sinh vào được.
 7. Bấm đúp `KHOI_DONG.bat`. Cửa sổ đen hiện địa chỉ (ví dụ `http://192.168.1.10`) — ghi lên bảng cho
    học sinh gõ. Trang quản trị: mở `http://localhost/admin` trên máy giáo viên, lần đầu đặt mật khẩu.
