@@ -1,0 +1,43 @@
+GIẤY PHÉP SỬ DỤNG PHẦN MỀM
+
+Bản quyền (c) 2026 Đào Viết Danh - Trường THPT Lý Thái Tổ - Phường An Phú - TP Hồ Chí Minh.
+Mọi quyền được bảo lưu.
+
+Phần mềm này (gồm mã nguồn, giao diện, tài liệu và hình ảnh đi kèm) được phát hành MIỄN PHÍ
+để dùng trong dạy học.
+
+1. ĐƯỢC PHÉP
+   - Cài đặt và sử dụng miễn phí, không giới hạn số máy, tại trường học, trung tâm, lớp học
+     hoặc cho mục đích cá nhân.
+   - Sao chép NGUYÊN VẸN bản gốc (không sửa đổi) để chia sẻ miễn phí cho giáo viên khác.
+   - Đọc mã nguồn để học tập.
+   - Thay đổi cài đặt qua giao diện của phần mềm và file config.json (thư mục lưu bài, mật
+     khẩu...). Việc này không bị coi là sửa phần mềm.
+
+2. KHÔNG ĐƯỢC PHÉP (trừ khi có sự đồng ý bằng văn bản của tác giả)
+   - Sửa đổi, chỉnh sửa, dịch hoặc tạo phần mềm khác dựa trên mã nguồn này.
+   - Xóa hoặc thay đổi tên tác giả, thông tin bản quyền, chân trang, trang hỗ trợ, nút ủng hộ.
+   - Bán, cho thuê, thu phí cài đặt hoặc dùng phần mềm để thu lợi dưới bất kỳ hình thức nào.
+   - Phát hành lại phần mềm (nguyên vẹn hay đã sửa) dưới tên khác hoặc tên tác giả khác.
+
+3. ĐÓNG GÓP VÀ XIN PHÉP
+   Muốn sửa lỗi, thêm tính năng hoặc dùng mã nguồn cho mục đích khác, xin liên hệ tác giả qua
+   Zalo (mã QR trong trang Hỗ trợ của phần mềm). Thầy cô có thể ủng hộ tác giả qua mã QR trong
+   trang Hỗ trợ; việc ủng hộ là tự nguyện, không bắt buộc.
+
+4. THƯ VIỆN BÊN THỨ BA
+   Các thư viện trong thư mục node_modules/ và public/vendor/ (Express, Multer, CodeMirror,
+   Quill, quill-blot-formatter2, js-beautify...) KHÔNG thuộc giấy phép này. Mỗi thư viện giữ
+   giấy phép riêng của nó (ghi trong thư mục của thư viện đó).
+
+5. KHÔNG BẢO ĐẢM
+   Phần mềm được cung cấp "nguyên trạng", không kèm bất kỳ bảo đảm nào. Tác giả không chịu
+   trách nhiệm về mất mát dữ liệu hay thiệt hại phát sinh khi sử dụng. Nên sao lưu thư mục
+   lưu bài thường xuyên.
+
+---------------------------------------------------------------------------------------------
+SUMMARY (English): Copyright (c) 2026 Dao Viet Danh. All rights reserved. Free to install and
+use for teaching, and to share unmodified copies free of charge. Modifying, creating derivative
+works, removing author/credit/donation information, selling, or redistributing under another
+name is NOT permitted without the author's written permission. Third-party libraries in
+node_modules/ and public/vendor/ keep their own licenses. Provided "as is", without warranty.
