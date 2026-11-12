@@ -3,7 +3,7 @@
 Phần mềm soạn & nộp bài HTML/CSS qua mạng LAN. Tài liệu này có 2 phần: **Phần 1** cho giáo viên
 (các bước cốt lõi để dạy được ngay buổi đầu), **Phần 2** cho học sinh (in ra phát ở tiết đầu tiên).
 
-Cài đặt phần mềm lên máy: xem [README](README.md) mục "Cài đặt".
+Cài đặt phần mềm lên máy: xem [README.md](README.md) mục "Cài đặt".
 
 ---
 
@@ -78,7 +78,7 @@ nộp bài và đặt đếm ngược giờ làm bài (trong mục Bài tập), 
 đổi mật khẩu, và mục **Hỗ trợ** (xem phiên bản, tự cập nhật phần mềm khi có bản mới, liên hệ tác
 giả). Cứ thử dần khi đã quen với các bước cơ bản ở trên.
 
-**Quên mật khẩu?** Xem mục "Xử lý sự cố" trong [README](README.md).
+**Quên mật khẩu?** Xem mục "Xử lý sự cố" trong [README.md](README.md).
 
 ---
 
@@ -135,10 +135,29 @@ Giới hạn: ảnh ≤ 2 MB, video ≤ 10 MB, file (PDF/Word/Excel/PowerPoint/Z
 2. Hộp xác nhận hiện tên — đúng thì bấm **"Đúng, nộp bài"**; nếu không phải tên mình, bấm
    **"Không phải tôi"** rồi nhập lại.
 3. Nộp lại bài cũ sẽ **ghi đè** (có hỏi lại trước khi ghi đè).
+4. **Nộp lần đầu** của bài này hiện thêm 1 hộp **"Mã lấy lại bài"** — xem cách dùng ở mục ngay
+   bên dưới.
 
 ### Bước 6. Xem danh sách đã nộp
 
 Bấm nút **Đã nộp** ở thanh trên để xem bạn nào trong lớp đã nộp bài này.
+
+### Lấy lại bài đã nộp (đổi máy, qua ngày khác, hoặc trình duyệt xóa mất bản nháp)
+
+Máy dùng chung nhiều lớp nên bản nháp đang soạn **chỉ nhớ trong trình duyệt hiện tại** (HS-06).
+Muốn sửa/bổ sung bài đã nộp vào lúc khác — ngồi máy khác, qua buổi học sau, hoặc trình duyệt đã
+quên bản nháp — làm theo 2 bước:
+
+1. **Lúc nộp lần đầu:** ngay sau khi nộp, một hộp hiện ra ghi **"Mã lấy lại bài"** (4 ký tự, ví
+   dụ `A1B2`). Mã này **chỉ hiện đúng 1 lần, không hiện lại được** — chụp màn hình hoặc ghi ra
+   giấy ngay. Các lần nộp đè sau đó (sửa/bổ sung rồi nộp lại) dùng lại đúng mã này, không cấp mã
+   mới, nên không cần lo mã nào là mới nhất.
+2. **Lúc cần lấy lại:** mở lại trang, bấm nút **Đã nộp** ở thanh trên → bấm **"Lấy lại bài đã
+   nộp của tôi"** → nhập đúng mã đã lưu → bấm **Lấy lại**. **Chỉ cần nhập mã**, không cần nhớ lại
+   Họ tên hay Lớp — phần mềm tự điền lại 2 ô đó, và nạp đúng bài đã nộp (bản mới nhất) vào ô soạn.
+   Nếu ô soạn đang có code khác, sẽ hỏi xác nhận trước khi ghi đè.
+
+> Lỡ làm mất cả mã: nhờ giáo viên mở trang quản trị xem lại code bài đã nộp rồi gửi cho em.
 
 ### Bài nhiều trang (bài "Tạo liên kết")
 
