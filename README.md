@@ -51,6 +51,6 @@ mới, bấm **Cập nhật ngay** là xong. Bài nộp, đề bài, mật khẩ
 
 ## Bản quyền
 
-Bản quyền © 2026 Đào Viết Danh (GV Trường THPT Lý Thái Tổ - TP Hồ Chí Minh). Phần mềm **miễn phí**:
+Bản quyền © 2026 Đào Viết Danh (GV Trường THPT Lý Thái Tổ - Phường An Phú - TP Hồ Chí Minh). Phần mềm **miễn phí**:
 được cài, dùng và chia sẻ bản gốc nguyên vẹn. **Không được** sửa đổi, bán, xóa thông tin tác giả
 hay phát hành lại dưới tên khác khi chưa có sự đồng ý của tác giả. Chi tiết: [LICENSE](LICENSE).
